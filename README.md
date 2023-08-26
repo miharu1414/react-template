@@ -1,4 +1,4 @@
-# fast-learning-app
+# 実行手順
 1. docker-compose build #最初だけ
 2. docker-compose up -d
 3. docker-compose ps　＃起動確認
